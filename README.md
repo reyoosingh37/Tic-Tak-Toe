@@ -31,9 +31,9 @@ The project files are organized as follows:
 
 The game relies on the following files and resources:
 
-- `img/icon.svg`: An SVG file used as the game's icon.
-- `img/github.svg`: An SVG file used to display the GitHub logo in the footer.
-- `font/TicTacToe.ttf`: A TrueType Font file used to display a custom font for the game.
+- `Icon.svg`: An SVG file used as the game's icon.
+- `Github.svg`: An SVG file used to display the GitHub logo in the footer.
+- `TicTacToe.ttf`: A TrueType Font file used to display a custom font for the game.
 
 ## Browser Compatibility
 
