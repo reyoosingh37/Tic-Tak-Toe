@@ -4,7 +4,7 @@ This is a simple implementation of the Tic Tac Toe game using HTML, CSS, and Jav
 
 ## Website
 
-You can access the website at: [https://shahir-47.github.io/Tic-Tac-Toe/](https://reyoosingh37.github.io/Tic-Tac-Toe/)
+You can access the website at: [https://reyoosingh37.github.io/Tic-Tac-Toe/](https://reyoosingh37.github.io/Tic-Tac-Toe/)
 
 ## Usage
 
