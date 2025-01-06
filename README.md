@@ -23,8 +23,8 @@ To use the Tic Tac Toe game, follow these steps:
 The project files are organized as follows:
 
 - `index.html`: The main HTML file that contains the structure of the game.
-- `css/normalize.css`: A CSS file that provides consistent styling across different browsers.
-- `css/style.css`: A CSS file that defines the styles for the game elements.
+- `Normalize.css`: A CSS file that provides consistent styling across different browsers.
+- `Style.css`: A CSS file that defines the styles for the game elements.
 - `script.js`: A JavaScript file that handles the game logic and interaction.
 
 ## Dependencies
