@@ -41,7 +41,7 @@ The Tic Tac Toe game is compatible with modern web browsers that support HTML5, 
 
 ## Credits
 
-- Game developed by [Shahir Ahmed](https://github.com/reyoosingh37)
+- Game developed by [Riya singh](https://github.com/reyoosingh37)
 - Source code available on [GitHub](https://github.com/reyoosingh37/Tic-Tac-Toe)
 
 ## License
